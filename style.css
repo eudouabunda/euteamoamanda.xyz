@@ -17,6 +17,15 @@
   box-sizing: border-box;
   transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0.2s ease;
 }
+.at-title{
+margin: 0 0 70px;
+color: rgb(255, 255, 255);
+font-familiy: "roboto", sans-serif;
+font-size: 3.5rem;
+font-weight: 300;
+line-height: 2.500rem;
+text-align: center;
+}
 .at-column:before {
   content: "";
   display: block;
